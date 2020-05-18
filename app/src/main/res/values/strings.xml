@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="about_me">ABOUT ME</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="DescriptionText">This is the original plan for me, I wonder why the Angel brought me to earth.I was meant to be white. </string>
+    <string name="say_hello">Say Hello !</string>
+    <string name="textview">TextView</string>
+</resources>
